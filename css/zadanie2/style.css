@@ -1,0 +1,23 @@
+body {
+    background-color: royalblue;
+}
+
+p {
+    text-align: center;
+}
+
+span {
+    font-size: 70px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.yellow {
+    font-size: 50px;
+    color: gold;
+}
+
+.red {
+    font-size: 100px;
+    color: tomato;
+}
