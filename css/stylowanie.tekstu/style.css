@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 20px;
+    font-size: 36px;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgba(208, 128, 128, 0.5);
+    color: white;
+    overflow: hidden;
+}
+
+p {
+    color: rgb(171, 91, 10);
+
+    text-align: left;
+    text-align: right;
+    text-align: center;
+    text-align: justify;
+    letter-spacing: 2px;
+}
+
+a {
+    color: rgb(13, 139, 167);
+    text-decoration: none;
+
+}
