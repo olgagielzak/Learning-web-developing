@@ -1,0 +1,16 @@
+div p {
+    color: red;
+}
+
+.child > p {
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+#test ~ div {
+    background-color: aqua;
+}
+
+main + p {
+    text-transform: uppercase;
+}
