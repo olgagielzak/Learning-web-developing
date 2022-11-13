@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #333;
+    font-size: 36px;
+    margin: 50px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: rgb(225, 107, 217);
+    border: none;
+    border-radius: 6px;
+    transition: .2s;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(248, 246, 240);
+    box-shadow: 0 0 10px rgb(246, 245, 243);
+}
